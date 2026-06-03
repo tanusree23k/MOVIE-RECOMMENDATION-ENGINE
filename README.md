@@ -1,10 +1,9 @@
-MOVIE RECOMMENDATION ENGINE 
 
 Intern id CITS3377
 
 Intern name K.Tanusree
 
-
+MOVIE RECOMMENDATION ENGINE
 
 The Movie Recommendation Engine is a simple web application developed using Python, Flask, HTML, and CSS. It helps users discover movies based on their preferred genre. The system uses a movie dataset containing different genres and titles to generate recommendations.
 
